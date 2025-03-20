@@ -1,0 +1,6 @@
+ID Produto;Produto;Unidades Produzidas;Unidades Vendidas;Preço Unitário;Receita;Custo Unitário;Custos Totais;Lucro
+263;Produto1;1000,0;750,0;51;38250,0;17;17000,0;21250,0
+128;Produto2;1100,0;1000,0;84;84000,0;28;30800,0;53200,0
+106;Produto3;830,0;680,0;48;32640,0;16;13280,0;19360,0
+289;Produto4;1075,0;1000,0;45;45000,0;12;12900,0;32100,0
+170;Produto5;1100,0;1000,0;51;51000,0;23;25300,0;25700,0

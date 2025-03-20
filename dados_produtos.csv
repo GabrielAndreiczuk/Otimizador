@@ -1,0 +1,6 @@
+data,idProduto,nomeProduto,qtde,estoque_minimo,producao_maxima,producao_minima,custoUnitario,custoTotal,precoVenda
+2025-03-18,263,Produto1,350,250,1000,100,17,5950,51
+2025-03-18,128,Produto2,328,100,1500,200,28,9184,84
+2025-03-18,106,Produto3,242,150,830,75,16,3872,48
+2025-03-18,289,Produto4,854,75,2000,300,12,810,45
+2025-03-18,170,Produto5,204,100,1300,100,23,468,51
